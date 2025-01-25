@@ -4,7 +4,7 @@ It detects the fishing symbol, presses the correct key, and supports both **infi
 
 🚀 **Created by:** HaruneSan97  
 📅 **Version:** 1.0  
-🔗 **GitHub:** [DEIN GITHUB-LINK]  
+🔗 **GitHub:** [https://github.com/HaruneSan97/FishingBotSHO]  
 
 ---
 
