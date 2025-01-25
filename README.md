@@ -5,7 +5,6 @@ It detects the fishing symbol, presses the correct key, and supports both **infi
 🚀 **Created by:** HaruneSan97  
 📅 **Version:** 1.0  
 🔗 **GitHub:** [https://github.com/HaruneSan97/FishingBotSHO]  
-
 ---
 
 ## **✨ Features**
@@ -24,3 +23,11 @@ It detects the fishing symbol, presses the correct key, and supports both **infi
 - Installiere die benötigten Module mit:
   ```bash
   pip install -r requirements.txt
+
+---
+
+## 💖 Support & Donations
+If you like this project and want to support me, feel free to donate! 🚀  
+Every donation helps me to keep improving this bot. 🎣🐟  
+
+[☕ Buy me a coffee on Ko-fi](https://ko-fi.com/DEIN_BENUTZERNAME) 
